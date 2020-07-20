@@ -4,7 +4,9 @@
 
 __Problem Statement:__ Project to detect fraudulent transactions using a dataset of nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, and to identify transactions with a high probability of being credit card fraud. 
 
-Dataset __*creditcard.csv*__ has been taken from: __*https://www.kaggle.com/mlg-ulb/creditcardfraud*__
+Dataset was too large to be uploaded here.
+
+You can access dataset __*creditcard.csv*__ from: __*https://www.kaggle.com/mlg-ulb/creditcardfraud*__
 
 __Steps Involved:__
 
